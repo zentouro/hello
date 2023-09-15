@@ -10,4 +10,6 @@ Here are ways to say hello in the 10 most widely spoken languages in the world:
 8. **Russian**: Привет (Privet)
 9. **Japanese**: こんにちは (Konnichiwa) during the day, こんばんは (Konbanwa) in the evening
 10. **Punjabi**: ਸਤ ਸ੍ਰੀ ਅਕਾਲ (Sat Srī Akāl) - Common greeting in Punjabi-speaking regions, especially among Sikhs
-11. **Sanskrit**: नमस्कारः
+11. **Italian**: Ciao
+12. **French**: Salut
+13. **Sanskrit**: नमस्कारः
