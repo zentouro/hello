@@ -12,5 +12,6 @@ Here are some ways to say hello in some of the most widely spoken languages in t
 10. **Punjabi**: ਸਤ ਸ੍ਰੀ ਅਕਾਲ (Sat Srī Akāl) - Common greeting in Punjabi-speaking regions, especially among Sikhs
 11. **Italian**: Ciao
 12. **French**: Salut
-13. **Sanskrit**: नमस्कारः
-14. **Yoruba**: Bawo ni
+13. **Sanskrit**: नमस्कार
+14: **Danish**: Hej
+15. **Yoruba**: Bawo ni
