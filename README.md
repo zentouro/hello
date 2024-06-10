@@ -14,3 +14,4 @@ Here are some ways to say hello in some of the most widely spoken languages in t
 12. **French**: Salut
 13. **Sanskrit**: नमस्कार
 14: **Danish**: Hej
+15. **Yoruba**: Bawo ni
